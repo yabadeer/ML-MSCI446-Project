@@ -11,3 +11,15 @@ Dataset (jobs.csv):
 We will be utilizing a free publicly available data set on LinkedIn job postings. This data set has features which we can use as variables and derive insights from, in order to perform supervised learning and provide a salary prediction for these postings (Datase available in the repository and linked in the code as well).
 
 The dataset is a public github repository in which a user scraped a compilation of job posts and metadata from various tech categories on LinkedIn.
+
+## Algorithms Used
+1. Random Forest Regression
+2. Neural Networks
+3. Decision Trees
+4. GAMs - Generalized Additive Models
+5. K Nearest Neighbors
+
+## Libraries Used
+1. Pandas
+2. Numpy
+3. Matplotlib
