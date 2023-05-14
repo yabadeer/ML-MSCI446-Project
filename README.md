@@ -18,8 +18,12 @@ The dataset is a public github repository in which a user scraped a compilation 
 3. Decision Trees
 4. GAMs - Generalized Additive Models
 5. K Nearest Neighbors
+6. XGBoost - Extreme Gradient Boost
+7. More...
 
 ## Libraries Used
 1. Pandas
 2. Numpy
 3. Matplotlib
+4. Seaborn
+5. Scikit-Learn
